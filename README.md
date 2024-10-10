@@ -15,3 +15,6 @@
 - :smiley:
 - :trollface:
 - :dragon_face:
+
+
+[CLI commands](Docs/Cli.md)
